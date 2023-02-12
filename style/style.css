@@ -1,0 +1,37 @@
+
+
+.cont1 {
+
+   position: relative;
+    background-color: rgb(221, 215, 215);
+    border: 2px solid #111;
+    width: 1800px;
+    height: 130px;
+outline-color: black;
+outline-width: 2px;
+}
+
+.senter {
+    text-align: center;
+    line-height: 300%;
+    
+}
+img {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    border-radius: 10%;
+}
+.text1 {
+    text-align: center;
+}
+.cont2 {
+
+    position: relative;
+     background-color: rgb(221, 215, 215);
+     border: 2px solid #111;
+     width: 1800px;
+     height: 180px;
+ outline-color: black;
+ outline-width: 2px;
+ }
